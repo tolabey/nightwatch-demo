@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="0">
+
+  <testsuite name="homepage"
+    errors="1" failures="0" hostname="" id="" package="homepage" skipped="2"
+    tests="0" time="0.000" timestamp="">
+  
+
+  
+
+  
+    
+    <testcase
+      name="Does not show the task list if there are no tasks" classname="homepage">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Does not show the footer if there are no tasks" classname="homepage">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>
